@@ -1,0 +1,1 @@
+<view class="content">123<swiper style="width:100%;" indicator-dots="{{true}}" autoplay="{{true}}" interval="{{3000}}" duration="{{1000}}"><swiper-item><view class="swiper-item">1</view></swiper-item><swiper-item><view class="swiper-item">2</view></swiper-item></swiper></view>
